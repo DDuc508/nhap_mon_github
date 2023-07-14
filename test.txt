@@ -1,1 +1,7 @@
 hello word 123
+
+add .
+git commit -am "mess transmit "
+git push
+
+git pull
